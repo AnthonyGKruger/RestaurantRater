@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RestaurantRater</string>
+    <string name="restaurant_name">Restaurant Name:</string>
+    <string name="save_details">Save Details</string>
+    <string name="save_rating">Save Rating</string>
+    <string name="average_label">Average:</string>
+    <string name="entree">Entree</string>
+    <string name="dessert">Dessert</string>
+    <string name="entree_name_here">Entree name here…</string>
+    <string name="appetizer_name_here">Appetizer name here…</string>
+    <string name="dessert_name_here">Dessert name here…</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="rate_dishes">Rate dishes</string>
+    <string name="zip_code">Zip code</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="street_address_here">Street address here</string>
+    <string name="address">Address:</string>
+    <string name="restaurant_name_here">Restaurant name here...</string>
+</resources>
